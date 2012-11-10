@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="dnsProxy.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="dnsServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://106.187.38.35/dns.php?domain={0}</Value>
+    </Setting>
+    <Setting Name="dnsServerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">106.187.38.35</Value>
+    </Setting>
+    <Setting Name="dnsServerIp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">106.187.38.35</Value>
+    </Setting>
+    <Setting Name="hostsUpdate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://raw.github.com/huhamhire/huhamhire-hosts/master/core/ipv4_unix_utf8/hosts</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
